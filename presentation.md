@@ -1,0 +1,1 @@
+# Volební kalkulačka offline
